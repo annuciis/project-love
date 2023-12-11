@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+}
+
+.container {
+  width: 400px;
+  border: solid 1px black;
+  margin: 20vh auto 0;
+}
+
+.input-box {
+  display: inline-block;
+}
+
+.calculate-btn {
+  margin-top: 25px;
+}
+
+.score-text {
+  margin-top: 20px;
+  visibility: hidden;
+}
+
+.fa-heart {
+  color: red;
+}
